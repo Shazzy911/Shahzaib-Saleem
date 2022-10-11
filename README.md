@@ -1,6 +1,7 @@
+<img align="center" alt="Coding" width="900" height="700" src="https://github.com/Shazzy911/Shahzaib-Saleem/blob/main/safar-safarov-koOdUvfGr4c-unsplash.jpg">
 <h1 align="center">Hi 👋, I'm Shahzaib Salemm</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
-<!-- <img align="center" alt="Coding" width="400" src=""> -->
+
 <h2>About </h2>
 <p>Full Stack Web Developer 2 year experience working with React, Node, Express, MongoDb, Git, Scss, 
 Also familiar with Python (Django) & (mysql). Good knowledge working with JSON, Api, and Database.
