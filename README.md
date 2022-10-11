@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" height="650" src="https://github.com/Shazzy911/Shahzaib-Saleem/blob/main/safar-safarov-koOdUvfGr4c-unsplash.jpg">
+
 <h1 align="center">Hi 👋, I'm Shahzaib Salemm</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
 
