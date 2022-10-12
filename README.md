@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shahzaib Salemm</h1>
+<h1 align="center">Hi 👋, I'm Shahzaib Saleem</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
 
 <h2>About </h2>
