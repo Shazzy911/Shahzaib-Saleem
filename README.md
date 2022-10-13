@@ -9,7 +9,7 @@ Highly adept at collaborative projects, with emphasis on landing page and websit
 Passionate about coding with excellent problem solving skills and ability to perform well in team</p>
 <p align="left"> <a href="https://twitter.com/shahzaibkh03" target="blank"><img src="https://img.shields.io/twitter/follow/shahzaibkh03?logo=twitter&style=for-the-badge" alt="shahzaibkh03" /></a> </p>
 
-- 🌱 I’m currently learning **Raidux,Aws,Next.js**
+- 🌱 I’m currently learning **Redux,Aws,Next.js,Firebase**
 
 - 👯 I’m looking to collaborate on **Mern Stack**
 
