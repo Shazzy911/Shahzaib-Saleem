@@ -1,25 +1,23 @@
 
-<h1 align="center">Hi 👋, I'm Shahzaib Saleem</h1>
+<h1 align="center">Hi, I'm Shahzaib Saleem</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
 
 <h2>About </h2>
-<p>Full Stack Web Developer 2 year experience working with React, Node, Express, MongoDb, Git, Scss, 
-Also familiar with Python (Django) & (mysql). Good knowledge working with JSON, Api, and Database.
-Highly adept at collaborative projects, with emphasis on landing page and website development.
-Passionate about coding with excellent problem solving skills and ability to perform well in team</p>
+<p>Web Developer experience working with React, Next js, Scss, Good knowledge working with JSON, Api, and Database.
+Highly adept at collaborative projects, with emphasis on landing page and website development. Passionate about coding with excellent problem solving skills and ability to perform well in team</p>
 <p align="left"> <a href="https://twitter.com/shahzaibkh03" target="blank"><img src="https://img.shields.io/twitter/follow/shahzaibkh03?logo=twitter&style=for-the-badge" alt="shahzaibkh03" /></a> </p>
 
-- 🌱 I’m currently learning **Redux,Aws,Next.js,Firebase**
+- 🌱 I’m currently learning **AWS,Nest.js,Firebase**
 
 - 👯 I’m looking to collaborate on **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shazzy911](https://github.com/Shazzy911)
 
-- 💬 Ask me about **React,Node,Express,MonogDB,**
+- 💬 Ask me about **React,Next,Node,Express,MonogDB,**
 
-- 📫 How to reach me **Shazzydev911@gmail.com**
+- 📫 How to reach me **Shazzy.mern@gmail.com**
 
-- 📄 2 Year working experiences as (bvbMern Developer 2)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
