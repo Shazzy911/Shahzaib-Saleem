@@ -1,19 +1,19 @@
 
-<h1 align="center">Hi, I'm Shahzaib Saleem</h1>
+<h1 align="center">Shahzaib Saleem</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
 
 <h2>About </h2>
-<p>Web Developer experience working with React, Next js, Scss, Good knowledge working with JSON, Api, and Database.
-Highly adept at collaborative projects, with emphasis on landing page and website development. Passionate about coding with excellent problem solving skills and ability to perform well in team</p>
+<p>Full stack web developer with experience in Next.js, PostgreSQL and MERN. Possesses a good understanding of REST APIs, GraphQl and their consumption. Passionate about coding, with excellent problem-solving skills. Highly adept at collaborative projects using Jira & Slack.
+Working experience of 1+ years in productive team.</p>
 <p align="left"> <a href="https://twitter.com/shahzaibkh03" target="blank"><img src="https://img.shields.io/twitter/follow/shahzaibkh03?logo=twitter&style=for-the-badge" alt="shahzaibkh03" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,Nest.js,Firebase**
+- 🌱 I’m currently learning **Redis, Firebase, Docker**
 
-- 👯 I’m looking to collaborate on **Mern Stack**
+- 👯 I’m looking to collaborate on **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shazzy911](https://github.com/Shazzy911)
 
-- 💬 Ask me about **React,Next,Node,Express,MonogDB,**
+- 💬 Ask me about **Next js, Object Oriented Programing, Data Structures & Algorithms, Databasesl,**
 
 - 📫 How to reach me **Shazzy.mern@gmail.com**
 
@@ -23,7 +23,7 @@ Highly adept at collaborative projects, with emphasis on landing page and websit
 <p align="left">
 <a href="https://codepen.io/shazzy911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shazzy911" height="30" width="40" /></a>
 <a href="https://twitter.com/shahzaibkh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahzaibkh03" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shahzaib-saleem-shazzy911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzaib saleem" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahzaib-saleem-shazzy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzaib saleem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19980240/shahzaib-saleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19980240/shahzaib-saleem" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100004632639281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahzaib saleem" height="30" width="40" /></a>
 </p>
