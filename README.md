@@ -7,11 +7,11 @@
 Working experience of 1+ years in productive team.</p>
 <p align="left"> <a href="https://twitter.com/shahzaibkh03" target="blank"><img src="https://img.shields.io/twitter/follow/shahzaibkh03?logo=twitter&style=for-the-badge" alt="shahzaibkh03" /></a> </p>
 
-- 🌱 I’m currently learning **Redis, Supabase, Docker**
+- 🌱 I’m currently learning **Redis, Supabase, Docker, Kubernetes**
 
 - 👯 I’m looking to collaborate on **Next Js**
 
-- 💬 Ask me about **Next js, Object Oriented Programing, Data Structures & Algorithms, Databasesl,**
+- 💬 Ask me about **Next js, Object Oriented Programing, Data Structures & Algorithm, Database,**
 
 - 📫 How to reach me **Shazzy.mern@gmail.com**
 
